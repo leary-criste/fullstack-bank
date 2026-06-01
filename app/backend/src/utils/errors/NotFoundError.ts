@@ -6,4 +6,4 @@ class NotFoundError extends CustomGenericError {
   }
 }
 
-export default NotFoundError;
+export default NotFoundError;

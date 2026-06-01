@@ -6,4 +6,4 @@ class BadRequestError extends CustomGenericError {
   }
 }
 
-export default BadRequestError;
+export default BadRequestError;

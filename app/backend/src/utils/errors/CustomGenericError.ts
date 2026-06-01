@@ -6,4 +6,4 @@ class CustomGenericError extends Error {
   get statusCode() { return this._statusCode; }
 }
 
-export default CustomGenericError;
+export default CustomGenericError;
