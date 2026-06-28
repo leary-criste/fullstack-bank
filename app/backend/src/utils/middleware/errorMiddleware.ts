@@ -20,4 +20,4 @@ function errorMiddleware(
   }
 }
 
-export default errorMiddleware;
+export default errorMiddleware;
