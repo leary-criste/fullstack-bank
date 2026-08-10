@@ -18,4 +18,4 @@ interface ITransaction {
   };
 }
 
-export default ITransaction;
+export default ITransaction;
