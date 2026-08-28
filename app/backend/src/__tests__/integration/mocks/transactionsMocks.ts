@@ -166,4 +166,4 @@ export const transactionListMock = [
 
 export const invalidTransactionsListResponseBody = {
   message: 'Token não encontrado.',
-};
+};
