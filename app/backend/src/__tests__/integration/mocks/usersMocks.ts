@@ -173,4 +173,4 @@ export const invalidBalanceResponseBodies = [
   {
     message: 'Não foi possível encontrar o usuário ou a conta.',
   },
-];
+];
