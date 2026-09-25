@@ -45,4 +45,4 @@ describe('Tela de cadastro', () => {
     }).click();
     cy.url().should('be.equal', `${Cypress.config('baseUrl')}/`);
   });
-});
+});
