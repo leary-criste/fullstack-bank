@@ -36,4 +36,4 @@ describe('Tela de dashboard', () => {
     }).click();
     cy.url().should('be.equal', `${Cypress.config('baseUrl')}/`);
   });
-});
+});

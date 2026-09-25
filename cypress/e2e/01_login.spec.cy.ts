@@ -41,4 +41,4 @@ describe('Tela de login', () => {
     cy.findByRole('button', { name: /criar conta/i }).click();
     cy.url().should('be.equal', `${Cypress.config('baseUrl')}/register`);
   });
-});
+});
