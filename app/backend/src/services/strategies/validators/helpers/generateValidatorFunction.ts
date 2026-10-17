@@ -15,4 +15,4 @@ function generateValidatorFunction<Body>(
   };
 }
 
-export default generateValidatorFunction;
+export default generateValidatorFunction;
